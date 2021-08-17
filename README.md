@@ -13,7 +13,7 @@ https://drive.google.com/drive/folders/1hdessVmzBi0POxnXkiexg8jOMMvscOCk?usp=sha
 * sortObjectClass()
     * Count the number of background images.
     * Count the number of objects in each class.
-    * Sort the classes based on the number of objects it contains.
+    * Sort the classes based on the number of objects they contain.
 
 * addAnomaly()
     * Randomly rotate the objects.
